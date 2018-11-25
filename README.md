@@ -95,7 +95,7 @@ Ok, so that is the chain rule.  Let's apply this to our example.
 
 Remember we started with the function $f(x) = (0.5x + 3)^2 $.  Then we used functional composition to split this into two.
 
-$$g(x) = x^2$$
+$$g(x) = (0.5x + 3)$$
 $$f(x) = (g(x))^2$$
 
 ### 2. Find the derivatives, $f'(x)$ and $g'(x)$
@@ -110,9 +110,9 @@ We have:
 
 Then substituting for $g(x)$, which we already defined, we have: 
 
-$f'(g(x)) = g(x) = x^2$
+$f'(g(x)) = g(x) = (0.5x + 3)$
 
-So the derivative of the function $f(x) = (0.5x + 3)^2 $ is $f'(x) = x^2 $
+So the derivative of the function $f(x) = (0.5x + 3)^2 $ is $f'(x) = (0.5x + 3) $
 
 ### Say it again
 
