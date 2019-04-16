@@ -85,7 +85,9 @@ Notice that the outer function $f(x)$'s output does not directly vary with $x$. 
 
 **Or: **
 
-$$ f'(g(x)) = f'(g(x))*g'(x) $$
+More generally, if we let $ F(x) = f(g(x)) $
+
+$$ F'(x) = f'(g(x))*g'(x) $$
 
 ## Work through our steps
 
@@ -101,7 +103,7 @@ $$f(x) = (g(x))^2$$
 ### 2. Find the derivatives, $f'(x)$ and $g'(x)$
 
 * as we know $g'(x) = 0.5$
-* and $f'g((x)) = 2*(g(x))^{1} = 2*g(x)$
+* and $f'(g(x)) = 2*(g(x))^{1} = 2*g(x)$
 
 ### 3. Substitute into our chain rule
 
@@ -153,7 +155,7 @@ $$f(x) = (g(x))^3$$
 ### 2. Take the derivative of each of the component functions 
 
 $$g'(x) = 6x + 10 $$
-$$f'(x) = 3g(x))^2$$
+$$f'(x) = 3(g(x))^2$$
 
 ### 3. Substitution 
 
