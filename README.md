@@ -169,4 +169,4 @@ And we can leave it there for now.
 
 ## Summary
 
-In this lesson, we learned about the chain rule.  The chain rule allows us to take the derivative of a function that that comprises of another function that depends on $x$.  We apply the chain by taking the derivative of the outer function and multiplying that by the derivative of the inner function.  We'll see the chain rule in the future when in our work with gradient descent.
+In this lesson, we learned about the chain rule. The chain rule allows us to take the derivative of a function that comprises of another function that depends on $x$. We apply the chain by taking the derivative of the outer function and multiplying that by the derivative of the inner function. We'll see the chain rule in the future when in our work with gradient descent.
