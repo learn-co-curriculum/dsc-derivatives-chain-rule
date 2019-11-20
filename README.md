@@ -8,7 +8,7 @@ So far we have seen that the derivative of a function is the instantaneous rate 
 ## Objectives
 
 You will be able to:
-- Understand how the chain rule for derivatives works
+- Use chain rule to calculate the derivative of composite funtions
 
 ## The chain rule
 
